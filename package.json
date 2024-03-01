@@ -1,6 +1,6 @@
 {
   "name": "crypto-name-generator-stp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for generating unique names related to cryptocurrency.",
   "main": "index.js",
   "repository": {
@@ -16,6 +16,6 @@
   "author": "Ipulljr11",
   "license": "MIT",
   "dependencies": {
-    "unique-names-generator": "^2.1.0"
+    "unique-names-generator": "^4.7.1"
   }
 }
